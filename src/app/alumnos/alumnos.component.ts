@@ -84,15 +84,6 @@ export class AlumnosComponent {
     return listaRetorno;
   };
 
-//   let resultado = listaDeVehiculos.reduce(function (inicio, vehiculo) {
-//     if(inicio < parseInt(vehiculo.id)){
-//         inicio = parseInt(vehiculo.id);
-//     }
-//     return inicio;
-// },0)
-// resultado += 1;
-// return resultado;
-
 
 }
 
